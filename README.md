@@ -1,10 +1,10 @@
 Camping Store [MERN E-Commerce Project]
 
 Day Screen with 'Selected Month' transactions
-![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/day-tab.png) "Day Screen with 'Selected Month' transactions")
+![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/day-tab.png "Day Screen with Selected Month transactions")
 
 Selected Category Line Chart
-![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/category-line-chart.png) "Selected Category Line Chart")
+![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/category-line-chart.png "Selected Category Line Chart")
 
 Expenses Summary Pie Chart
 ![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/expenses-summary-pie-chart.png "Expenses Summary Pie Chart")
@@ -13,7 +13,7 @@ Form for adding new transaction
 ![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/add-transaction-form.png "Form for adding new transaction")
 
 Date Selector
-![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/native-date-selector.png?raw=true "Date Selector")
+![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/native-date-selector.png "Date Selector")
 
 Monthly Summary
 ![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/month-tab.png "Monthly Summary")
