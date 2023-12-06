@@ -1,7 +1,7 @@
 Camping Store [MERN E-Commerce Project]
 
 Day Screen with 'Selected Month' transactions
-![Alt text]([https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/day-tab.png](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/day-tab.png)) "Day Screen with 'Selected Month' transactions")
+![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/day-tab.png) "Day Screen with 'Selected Month' transactions")
 
 Selected Category Line Chart
 ![Alt text](https://raw.githubusercontent.com/kcnabin/money-manager-react-native/main/assets/screenshots/category-line-chart.png) "Selected Category Line Chart")
